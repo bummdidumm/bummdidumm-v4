@@ -1,23 +1,17 @@
 <!-- BEGIN CENTRAL WORK POLICY -->
-## Projektübergreifende Arbeitsrichtlinie – lokal zuerst
+## Gemeinsame Arbeitsrichtlinie: Workspace zuerst
 
-Diese Datei gilt unmittelbar für Codex und alle Agenten, die `AGENTS.md` verwenden. Projektregeln unterhalb dieses Blocks bleiben vollständig gültig. Nicht für jeden Arbeitsbeginn Drive, GitHub oder andere Dienste kontaktieren.
+- Benötigte Projektdateien, Quellen und Regeln bei Bedarf einmalig in den eigenen Workspace übernehmen. Danach vorhandene gültige lokale Stände verwenden; nicht ständig dieselben Informationen erneut von externen Diensten abrufen.
+- Eigenständig entwickeln, testen und Fehler beheben, bis ein funktionierendes, geprüftes Ergebnis vorliegt. Lokale Logs und Statusnotizen dürfen fortlaufend geführt werden.
+- GitHub, Google Drive und andere externe Dienste nur verwenden, wenn für die Aufgabe sinnvoll oder notwendig. Es besteht keine allgemeine Pflicht, laufend Commits zu pushen, Issues oder Pull Requests zu erstellen oder Zwischenstände nach Drive hochzuladen. Externe Zugriffe sind nicht verboten, sondern bedarfsabhängig.
+- Am Ende können Ergebnisse und lokal geführte Logs/Protokolle gesammelt an den vorgesehenen Ort synchronisiert werden, sofern beauftragt, notwendig oder projektspezifisch vorgesehen. Keine laufende Synchronisation als Selbstzweck.
+- Technologieoffene Sprachwahl: Rust, TypeScript, Kotlin, Go, Python, SQL oder passende Alternativen nach Zielplattform, bestehender Architektur, Sicherheit, Performance, Wartbarkeit und Ökosystem wählen. Keine automatische Python-Bevorzugung und kein Rust-Zwang.
+- Bestehende Projektvorgaben, Datenschutz, Sicherheit, Kosten- und Zugriffsgrenzen bleiben gültig. Wirklich notwendige Nutzerentscheidungen/Freigaben möglichst bündeln.
 
-### Arbeitsmodus
-- Auftrag bis zum tatsächlich funktionierenden, getesteten Ergebnis eigenständig bearbeiten: implementieren, bauen, testen, Fehler beheben, erneut testen.
-- Normale technische und organisatorische Entscheidungen ohne Rückfrage treffen; vorhandene Antworten und Freigaben wiederverwenden. Nur unvermeidbare Berechtigungen, Kosten, Sicherheitsaktionen oder echte Produktentscheidungen gebündelt anfragen.
-- Im vorhandenen lokalen Workspace arbeiten. Git für lokale Versionierung bei Bedarf nutzen. Keine automatischen Remote-Pushes, Pull Requests, Issues, Projekt-Uploads oder ständige Synchronisation. GitHub nur bei ausdrücklich gewünschter Übergabe, Zusammenarbeit, Sicherung oder erforderlichem Deployment. Vor jeder externen Aktion tatsächliche Notwendigkeit prüfen.
-- Drive nur lesen, wenn eine konkret benötigte Datei ausschliesslich dort liegt; nur auf ausdrücklichen Auftrag dorthin schreiben. Kein periodisches Nachladen der Arbeitsrichtlinie. Bestehende Dateistruktur und IDs respektieren; keine parallelen Kopien oder Ersatzablagen.
-- Status und Testnachweise bei Bedarf in lokalen Projektdateien führen, kompakt nach wesentlichen Meilensteinen statt nach jedem Schritt. Am Ende ein funktionierendes Artefakt und kurzes belegbares Abschlussprotokoll liefern. Nichts als bestanden oder ausgeliefert markieren, was nicht getestet wurde.
-- Sicherheits-, Kosten-, Datenschutz-, Rechte- und projektspezifische Aktivierungsgrenzen bleiben uneingeschränkt bestehen. Bei Blockade unabhängig durchführbare Arbeiten abschliessen.
-
-### Technologieoffene Sprach- und Stackwahl
-Rust, TypeScript, Kotlin, Go, Python, SQL und geeignete weitere Optionen nach Zielplattform, bestehender Architektur, Sicherheit, Performance, Wartbarkeit, Ökosystem und Aufwand bewerten. Weder Python automatisch bevorzugen noch Rust erzwingen; keine ungefragten Migrationen. Entscheidungen knapp im lokalen Projektstand begründen.
-
-### Weiterführende zentrale Referenz (nur bei tatsächlichem Bedarf)
+Zentrale Referenz, soweit nicht bereits lokal gültig verfügbar:
 Google Drive: https://drive.google.com/file/d/1WlqFgMnUFuCj1t_yJPaL8sLwtsfUlE-B/view
-GitHub-Fallback: `bummdidumm/bummdidummrep` → `codex/KI_Arbeitsrichtlinie_ChatGPT_Codex.md`.
-Wenn die zentrale Quelle bereits lokal vorliegt, diese verwenden; nicht bloss zur Wiederholung der Regeln externe Dienste verbinden. Ist eine Zusatzquelle nicht erreichbar, mit den vorliegenden Regeln arbeiten und die Einschränkung nur bei Relevanz nennen.
+GitHub-Sicherung: `bummdidumm/bummdidummrep` → `codex/KI_Arbeitsrichtlinie_ChatGPT_Codex.md`.
+Die Referenz nicht bei jedem Arbeitsschritt ohne konkreten Bedarf erneut extern abrufen.
 <!-- END CENTRAL WORK POLICY -->
 
 
