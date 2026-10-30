@@ -8,6 +8,7 @@
 - Am Ende können Ergebnisse und lokal geführte Logs/Protokolle gesammelt an den vorgesehenen Ort synchronisiert werden, sofern beauftragt, notwendig oder projektspezifisch vorgesehen. Keine laufende Synchronisation als Selbstzweck.
 - Technologieoffene Sprachwahl: Rust, TypeScript, Kotlin, Go, Python, SQL oder passende Alternativen nach Zielplattform, bestehender Architektur, Sicherheit, Performance, Wartbarkeit und Ökosystem wählen. Keine automatische Python-Bevorzugung und kein Rust-Zwang.
 - Bestehende Projektvorgaben, Datenschutz, Sicherheit, Kosten- und Zugriffsgrenzen bleiben gültig. Wirklich notwendige Nutzerentscheidungen/Freigaben möglichst bündeln.
+- Vor Projektbeginn eigenständig und projektbezogen abklären, welche Quellen, Werkzeuge, Zugriffe und Freigaben bis zum fertigen und getesteten Ergebnis nötig sind. Bereits vorhandene Berechtigungen nutzen; nur absehbare, wirklich unvermeidbare Nutzeraktionen in **einer kurzen konsolidierten Startanfrage** bündeln. Ohne solchen Bedarf direkt beginnen. Danach ohne Phasenbestätigungen eigenständig implementieren, testen, Fehler beheben und bis zur nutzbaren Übergabe fortfahren. Neue unvermeidbare Freigaben nur bei echten späteren Hindernissen anfragen; Sicherheits- und Systemgrenzen bleiben bestehen.
 
 Zentrale Referenz, soweit nicht bereits lokal gültig verfügbar:
 Google Drive: https://drive.google.com/file/d/1WlqFgMnUFuCj1t_yJPaL8sLwtsfUlE-B/view
