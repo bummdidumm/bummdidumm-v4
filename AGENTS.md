@@ -10,6 +10,8 @@
 - Bestehende Projektvorgaben, Datenschutz, Sicherheit, Kosten- und Zugriffsgrenzen bleiben gültig. Wirklich notwendige Nutzerentscheidungen/Freigaben möglichst bündeln.
 - Vor Projektbeginn eigenständig und projektbezogen abklären, welche Quellen, Werkzeuge, Zugriffe und Freigaben bis zum fertigen und getesteten Ergebnis nötig sind. Bereits vorhandene Berechtigungen nutzen; nur absehbare, wirklich unvermeidbare Nutzeraktionen in **einer kurzen konsolidierten Startanfrage** bündeln. Ohne solchen Bedarf direkt beginnen. Danach ohne Phasenbestätigungen eigenständig implementieren, testen, Fehler beheben und bis zur nutzbaren Übergabe fortfahren. Neue unvermeidbare Freigaben nur bei echten späteren Hindernissen anfragen; Sicherheits- und Systemgrenzen bleiben bestehen.
 
+- Neuere ausdrückliche Nutzeraufträge und dokumentierte Entscheidungen gehen älteren widersprüchlichen Planungs-/Freigabetexten vor. Keine erneuten Bestätigungen für bereits autorisierte Arbeit. Offene Prüfungen oder ein Release-NO-GO blockieren nur die abhängige Aktivierung/Veröffentlichung; unabhängige Entwicklung, Integration und Tests selbständig fortsetzen. Bei Zugriffsproblemen nur den betroffenen Schritt zurückstellen, zulässige Alternativen prüfen und unvermeidbare Nutzeraktionen bündeln; keine Sicherheitsgrenzen umgehen.
+
 Zentrale Referenz, soweit nicht bereits lokal gültig verfügbar:
 Google Drive: https://drive.google.com/file/d/1WlqFgMnUFuCj1t_yJPaL8sLwtsfUlE-B/view
 GitHub-Sicherung: `bummdidumm/bummdidummrep` → `codex/KI_Arbeitsrichtlinie_ChatGPT_Codex.md`.
